@@ -17,7 +17,7 @@ Project is created with:
 ## View the website
 To view the website, click on the link below:
 
-https://thejas-kumar.netlify.app/
+https://thejas79.github.io/Portfolio/
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
